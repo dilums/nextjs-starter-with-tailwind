@@ -1,8 +1,9 @@
 const siteMetadata = {
-  title: "",
-  description: "",
+  title: "Next.js Starter Template",
+  description:
+    "Next.js starter template with tailwind css and a custom head for SEO",
   ogImage: "/og.png",
-  url: "https://dilums.com",
+  url: "https://nextjs-starter-with-tailwind.netlify.app",
   author: "Dilum Sanjaya",
   keywords: "Next.js",
   favicon: "/favicon.ico",
